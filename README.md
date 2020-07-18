@@ -9,8 +9,8 @@ SecretsManager: version 0.0.1
 Up and running:
 ```
 1. python3.8 -m venv venv
-2. pip3.8 install -r requirments.txt
-3. source venv/bin/activate
+2. source venv/bin/activate
+3. pip3.8 install -r requirements.txt
 4. vi secrets_example.cfg (update with credentials)
 5. mv secrets_config.cfg secrets.cfg
 6. Happy Pythoning!
